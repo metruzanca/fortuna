@@ -2,17 +2,18 @@
 
 ## Usage
 
-<details>
-<summary>If `pnpm` is not installed</summary>
-<code>
+This project uses `pnpm`. If that is not installed, the easiest way to get it is to run
+```
 npm i -g pnpm
-</code>
-</details>
+```
+
+Download dependencies
 
 ```bash
 pnpm i
 ```
 
+Run Fortuna with:
 ```bash
 pnpm start
 ```
